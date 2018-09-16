@@ -1,6 +1,6 @@
 # The Complete Java Tutorial For Beginners [100% FREE]
 
-Learn not just the how but also the why behind every line of code you write in Java. This is the most badass Java tutorial series you will ever encounter: <b>FREE</b> or <b>PAID</b>. 150,000 people say so, what about you?
+Learn not just the how but also the why behind every line of code you write in Java. This is the most badass Java tutorial series you will ever encounter: <b>FREE</b> or <b>PAID</b>. <b>150,000</b> people say so, what about you?
 
 ## Playlist
 
