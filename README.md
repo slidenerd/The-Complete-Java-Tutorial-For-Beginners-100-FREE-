@@ -13,3 +13,4 @@ Learn not just the how but also the why behind every line of code you write in J
 * 7 [Variables And Constants](https://www.youtube.com/watch?v=5pfPLtJ1ZD0&t=0s&index=8&list=PLonJJ3BVjZW4QfXVLHe6ewOxLne_XFGWB)
 * 8 [Playground Variables And Constants](https://www.youtube.com/watch?v=3jkSkiSPKrg&t=0s&index=9&list=PLonJJ3BVjZW4QfXVLHe6ewOxLne_XFGWB)
 * 9 [Java Typecasting](https://www.youtube.com/watch?v=Ai80ZjRl00o&t=0s&index=10&list=PLonJJ3BVjZW4QfXVLHe6ewOxLne_XFGWB)
+* 10 [Playground Typecasting](https://www.youtube.com/watch?v=BEwiYMA_0n8&t=0s&index=11&list=PLonJJ3BVjZW4QfXVLHe6ewOxLne_XFGWB)
